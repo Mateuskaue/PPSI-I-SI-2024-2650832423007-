@@ -1,0 +1,51 @@
+@charset "UTF-8";
+
+table {
+
+    width: 100%;
+
+    border-collapse: collapse;
+
+    font-family: Arial, sans-serif;
+
+}
+
+th, td {
+
+    border: 1px solid black;
+
+    padding: 8px;
+
+    text-align: center;
+
+}
+
+th {
+
+    background-color: #d9e1f2;
+
+    font-weight: bold;
+
+}
+
+.header-red {
+
+    background-color: #f4cccc;
+
+    font-weight: bold;
+
+    color: red;
+
+}
+
+.header-blue {
+
+    background-color: #d9e1f2;
+
+}
+
+.header-gray {
+
+    background-color: #eaeaea;}
+
+    body {padding: 10%;}
