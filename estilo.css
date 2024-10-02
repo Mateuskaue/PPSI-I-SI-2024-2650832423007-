@@ -1,0 +1,5 @@
+html { background-color: lightgray; }
+body { background-color: white; }
+article, section, aside { background-color: white; }
+nav, header, footer { background-color: rgb(157, 189, 255); }
+header, nav, article, aside, section, footer { border: dashed 1px rgb(119, 119, 255); }
