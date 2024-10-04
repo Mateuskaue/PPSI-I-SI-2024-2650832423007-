@@ -1,0 +1,53 @@
+@charset "utf-8";
+body{
+    background-color: rgb(8, 9, 61);
+    color: rgb(206, 206, 206);
+    text-align: center;
+    width: 1080px;
+    margin: 0px auto 0px auto;
+}
+nav ul li{
+    display: inline;
+}
+ul{
+    padding: 0px auto 100px;
+}
+a{
+    padding: 0 30px;
+    text-decoration: none;
+    list-style: none;
+    color: rgb(157, 168, 5);
+}
+p{
+    text-align: left;
+}
+h1,h2{
+    text-transform: uppercase;
+}
+article{
+    width: 640px;
+    float: left;
+}
+aside{
+    width: 370px;
+    float: right;
+    text-align: center;
+}
+section{
+    clear: left;
+    width: 640px;
+}
+footer{
+    clear: both;
+    width: 1080px;
+    height: 100px;
+    background-color: rgb(5, 2, 43);
+    text-align: center;   
+}
+
+.ativo{
+    color: rgb(189, 192, 5);
+}
+.img{
+    height: 250px;
+}
